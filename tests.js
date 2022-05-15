@@ -18,12 +18,12 @@ productos.save( {
   thumbnail: 'https://www.kindpng.com/picc/m/427-4271015_transparent-globo-terraqueo-png-globo-terraqueo-con-luz.png'
 } );
 
-// productos.getById( 5 )
-//   .then( data => console.log( data ) );
+productos.getById( 5 )
+  .then( data => console.log( data ) );
 
-// productos.getAll()
-//   .then( data => console.log( data ) );
+productos.getAll()
+  .then( data => console.log( data ) );
 
-// productos.deleteById( 3 );
+productos.deleteById( 3 );
 
-// productos.deleteAll();
+productos.deleteAll();
