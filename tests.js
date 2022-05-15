@@ -1,4 +1,3 @@
-// const fs = require ( 'fs' );
 const Contenedor = require ( './products' );
 
 const productos = new Contenedor();
