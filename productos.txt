@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Escuadra",
+		"price": 123.45,
+		"thumbnail": "https://skribeargentina.com/wp-content/uploads/2018/07/411101.png",
+		"id": 1
+	},
+	{
+		"title": "calculadora",
+		"price": 234.56,
+		"thumbnail": "https://pngimg.com/uploads/calculator/calculator_PNG7939.png",
+		"id": 2
+	},
+	{
+		"title": "Globo terraqueo",
+		"price": 420.23,
+		"thumbnail": "https://www.kindpng.com/picc/m/427-4271015_transparent-globo-terraqueo-png-globo-terraqueo-con-luz.png",
+		"id": 3
+	}
+]
